@@ -1,4 +1,4 @@
-# 🌍 EVOERA AI – ESG Intelligence Platform
+# 🌍 EVORA AI – ESG Intelligence Platform
 
 ## 📌 Overview
 
