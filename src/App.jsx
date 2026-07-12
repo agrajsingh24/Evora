@@ -23,6 +23,19 @@ import Reward from './pages/citizen/civic-flow/Reward';
 // Admin Pages
 import AdminLogin from "./pages/admin/AdminLogin";
 import AdminDashboard from "./pages/admin/AdminDashboard";
+import GeoSpatialPage from './pages/admin/GeoSpatialPage';
+import LeaderboardPage from './pages/admin/LeaderboardPage';
+import RiverHealthPage from './pages/admin/RiverHealthPage';
+import HimalayanEcoPage from './pages/admin/HimalayanEcoPage';
+import TourismImpactPage from './pages/admin/TourismImpactPage';
+import RiskForecastingPage from './pages/admin/RiskForecastingPage';
+import WorkforcePage from './pages/admin/WorkforcePage';
+import ImpactPage from './pages/admin/ImpactPage';
+import CommunityPage from './pages/admin/CommunityPage';
+import CampaignsPage from './pages/admin/CampaignsPage';
+import PolicyPage from './pages/admin/PolicyPage';
+import CompliancePage from './pages/admin/CompliancePage';
+import LiveVehicleTrack from './pages/admin/LiveVehicleTrack';
 
 function App() {
   return (
@@ -56,6 +69,19 @@ function App() {
           <Route element={<AdminLayout />}>
             <Route path="/AdminLogin" element={<AdminLogin />} />
             <Route path="/AdminDashboard" element={<AdminDashboard />} />
+            <Route path="/geo-spatial" element={<GeoSpatialPage />} />
+            <Route path="/leaderboard" element={<LeaderboardPage />} />
+            <Route path="/river-health" element={<RiverHealthPage />} />
+            <Route path="/himalayan-eco" element={<HimalayanEcoPage />} />
+            <Route path="/tourism-impact" element={<TourismImpactPage />} />
+            <Route path="/risk-forecasting" element={<RiskForecastingPage />} />
+            <Route path="/workforce" element={<WorkforcePage />} />
+            <Route path="/Admin/live-vehicle-track" element={<LiveVehicleTrack />} />
+            <Route path="/impact" element={<ImpactPage />} />
+            <Route path="/community" element={<CommunityPage />} />
+            <Route path="/campaigns" element={<CampaignsPage />} />
+            <Route path="/policy" element={<PolicyPage />} />
+            <Route path="/compliance" element={<CompliancePage />} />
           </Route>
         </Routes>
       </Router>
