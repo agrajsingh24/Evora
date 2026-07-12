@@ -1,10 +1,12 @@
-# 🌍 EVORA AI – ESG Intelligence Platform
+<div align="center">
 
-AI-Powered Civic Intelligence & ESG Sustainability Platform
+# 🌍 EVORA AI
 
-Building Smarter, Cleaner & Sustainable Communities through Artificial Intelligence
+### AI-Powered Civic Intelligence & ESG Sustainability Platform
 
-<P>
+**Building Smarter, Cleaner & Sustainable Communities through Artificial Intelligence**
+
+<p>
 <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" />
 <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css" />
@@ -14,10 +16,11 @@ Building Smarter, Cleaner & Sustainable Communities through Artificial Intellige
 <img src="https://img.shields.io/badge/IoT-Integrated-orange" />
 <img src="https://img.shields.io/badge/ESG-Sustainability-green" />
 <img src="https://img.shields.io/badge/Odoo-Hackathon-purple" />
-</P>
+</p>
 
-**A next-generation civic intelligence platform that leverages Artificial Intelligence, Computer Vision, IoT, Real-Time Analytics, and Gamification to transform environmental governance and public service management.**
+*A next-generation civic intelligence platform that leverages Artificial Intelligence, Computer Vision, IoT, Real-Time Analytics, and Gamification to transform environmental governance and public service management.*
 
+</div>
 
 ---
 
@@ -359,3 +362,4 @@ Developed with ❤️ to empower sustainable communities through Artificial Inte
 **EVORA AI Team**
 
 *"Intelligence for Sustainability. Innovation for Communities."*
+
